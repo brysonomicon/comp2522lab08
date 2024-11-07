@@ -1,0 +1,130 @@
+What is the capital of Canada?|Ottawa
+What is 2 + 2?|4
+What is the color of the sky on a clear day?|Blue
+Name a programming language starting with J?|Java
+What is the largest planet in our solar system?|Jupiter
+What is the chemical symbol for water?|H2O
+Who wrote "Hamlet"?|Shakespeare
+What is 5 x 6?|30
+What is the freezing point of water in Celsius?|0
+What is the largest ocean on Earth?|Pacific
+Who painted the Mona Lisa?|Leonardo da Vinci
+What is the capital of France?|Paris
+What is the square root of 64?|8
+Who discovered penicillin?|Alexander Fleming
+What is the smallest planet in our solar system?|Mercury
+What is the boiling point of water in Celsius?|100
+What is the main ingredient in guacamole?|Avocado
+What year did World War II end?|1945
+What is the hardest natural substance on Earth?|Diamond
+Who wrote "Pride and Prejudice"?|Jane Austen
+What is the atomic number of carbon?|6
+Who invented the telephone?|Alexander Graham Bell
+What is the currency of Japan?|Yen
+What is the largest mammal on Earth?|Blue Whale
+What is the name of the main character in "The Legend of Zelda"?|Link
+What is the capital of Italy?|Rome
+Who is the Greek god of the sea?|Poseidon
+What is the highest mountain in the world?|Mount Everest
+What is the smallest country in the world?|Vatican City
+What is the longest river in the world?|Nile
+What is the capital of Australia?|Canberra
+Who wrote "The Great Gatsby"?|F. Scott Fitzgerald
+What is the largest bone in the human body?|Femur
+What is the atomic symbol for gold?|Au
+What element does "O" represent on the periodic table?|Oxygen
+What is the capital of Germany?|Berlin
+Who painted "Starry Night"?|Vincent van Gogh
+What is the primary ingredient in chocolate?|Cocoa
+What is 3 cubed?|27
+What is the longest bone in the human body?|Femur
+What is the capital of Russia?|Moscow
+What year did Neil Armstrong land on the moon?|1969
+Who was the first president of the United States?|George Washington
+What does DNA stand for?|Deoxyribonucleic Acid
+What is the fastest land animal?|Cheetah
+What is the name of the ship in "Star Trek"?|USS Enterprise
+What is the capital of Egypt?|Cairo
+What is the chemical symbol for salt?|NaCl
+What is the most spoken language in the world?|English
+What is the tallest building in the world?|Burj Khalifa
+Who invented the light bulb?|Thomas Edison
+What is the capital of Mexico?|Mexico City
+What is the longest-running animated TV show in the U.S.?|The Simpsons
+What is the national animal of Canada?|Beaver
+What planet is closest to the sun?|Mercury
+What is the square root of 144?|12
+What is the currency of the United Kingdom?|Pound
+Who was the first man in space?|Yuri Gagarin
+What is the primary ingredient in bread?|Flour
+Who is the Norse god of thunder?|Thor
+What is the capital of Argentina?|Buenos Aires
+What is the capital of Turkey?|Ankara
+Who wrote "To Kill a Mockingbird"?|Harper Lee
+What color is a polar bear’s skin?|Black
+What is the longest river in South America?|Amazon
+What is the largest desert in the world?|Sahara
+Who directed the movie "Inception"?|Christopher Nolan
+What is the capital of Greece?|Athens
+What type of animal is a Komodo dragon?|Lizard
+What is the capital of India?|New Delhi
+What is the capital of South Africa?|Pretoria
+What is the currency of China?|Yuan
+What is the capital of Spain?|Madrid
+What is the most abundant gas in Earth’s atmosphere?|Nitrogen
+What is the capital of Sweden?|Stockholm
+Who painted "The Last Supper"?|Leonardo da Vinci
+What is the tallest mountain in North America?|Denali
+What country is known as the Land of the Rising Sun?|Japan
+What is the main ingredient in sushi?|Rice
+What is the capital of Portugal?|Lisbon
+What is the capital of Brazil?|Brasília
+Who wrote "1984"?|George Orwell
+What planet is known as the Red Planet?|Mars
+What is the primary language spoken in Brazil?|Portuguese
+What is the fastest animal in the ocean?|Sailfish
+Who wrote "The Catcher in the Rye"?|J.D. Salinger
+What type of creature is Shub-Niggurath in Quake?|Elder God
+What year was Quake released?|1996
+What game engine was used in Quake?|id Tech 1
+What is the name of the player character in Quake?|Ranger
+Which company developed the Quake franchise?|id Software
+What is the first weapon you get in Quake?|Axe
+What type of creature is a Fiend in Quake?|Demon
+What is the final boss of Quake?|Shub-Niggurath
+What is the highest difficulty setting in Quake?|Nightmare
+What was unique about Quake’s multiplayer?|First to use 3D graphics
+What is the name of Quake’s expansion pack?|Scourge of Armagon
+Who composed the music for Quake?|Trent Reznor
+What is the starting weapon in Quake II?|Blaster
+What year was Quake II released?|1997
+What alien race is the enemy in Quake II?|Strogg
+What is the name of the Quake multiplayer mod popular in the 90s?|Team Fortress
+What is Quake III focused on?|Multiplayer
+What is the subtitle of Quake 4?|A Strogg’s Revenge
+Which Quake game introduced railguns?|Quake II
+What year was Quake Champions released?|2017
+What is the main game mode in Quake III?|Deathmatch
+What was revolutionary about Quake’s engine?|True 3D environments
+What is the name of the Lovecraftian horror in Quake?|Cthulhu Mythos
+What is the name of the second expansion for Quake?|Dissolution of Eternity
+What is the protagonist’s mission in Quake?|Destroy the creatures
+What mode was added in Quake Live?|Clan Arena
+What did Quake Champions introduce that was different?|Character abilities
+What is the name of the iconic Quake map with the lava pit?|DM6
+What year did Quake Live release?|2010
+What was Quake’s impact on esports?|Pioneer in competitive gaming
+What is the capital of Finland?|Helsinki
+What is the fastest bird in the world?|Peregrine Falcon
+What is the capital of Norway?|Oslo
+What is the capital of South Korea?|Seoul
+What is the rarest blood type?|AB negative
+What does “www” stand for in a website browser?|World Wide Web
+What is the largest internal organ in the human body?|Liver
+What is the capital of the Netherlands?|Amsterdam
+What is the hardest rock?|Diamond
+What planet has the most moons?|Saturn
+What animal can change color to blend in with its surroundings?|Chameleon
+What is the name of the process plants use to make food?|Photosynthesis
+What is the lightest element?|Hydrogen
+What is the deepest ocean trench?|Mariana Trench

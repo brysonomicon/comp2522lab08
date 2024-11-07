@@ -31,11 +31,13 @@ public class HelloWorld
 
     private VBox createLayout()
     {
-        final Label label;
+        Label  label;
         final Button button;
 
-        label  = new Label("Welcome to JavaFX!");
+        label  = new Label("Hello World!");
         button = new Button("Click me!");
+
+        button.setOnAction(event -> label.setText("GoodBye Cruel World!"));
 
         return new VBox(label, button);
     }
