@@ -18,7 +18,8 @@ import java.util.List;
  * A simple JavaFX-based quiz application that loads questions from a file and allows
  * the user to answer a limited set of questions, tracking their score along the way.
  */
-public class QuizApp extends Application
+public class QuizApp
+        extends Application
 {
     private static final double VBOX_SPACING    = 10.0;
     private static final double SCENE_WIDTH     = 400.0;
